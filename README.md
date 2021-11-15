@@ -1,8 +1,9 @@
 # vorp_bossmanager
 Job manager for bosses
-Recruit
-Licensor
-choosing grades
+
+* Recruit
+* Licensor
+* choosing grades
 
 ## Requirements
 - [ghmattimysql](https://github.com/GHMatti/ghmattimysql/releases)
