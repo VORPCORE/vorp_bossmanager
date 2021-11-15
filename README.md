@@ -14,4 +14,4 @@ choosing grades
 * Download files
 * Copy and paste ``vorp_bossmanager`` folder to ``resources/``
 * Add ``ensure vorp_bossmanager`` to your ``server.cfg`` file
-* 
+
